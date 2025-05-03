@@ -16,6 +16,15 @@
       "category": "Food",
       "price": 30,  
       "createdAt": "2025-04-28T09:43:40.749Z"     
+    },
+    {
+      "id": 3,
+      "description": "Gym",
+      "type": "outcome",
+      "category": "Leisure",
+      "price": 29.99,
+      "createdAt": "2025-04-28T09:43:40.749Z"
     }
+    
   ]
 }
