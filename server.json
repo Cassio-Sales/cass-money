@@ -5,17 +5,16 @@
       "description": "Desenvolvimnento de site",
       "type": "income",
       "category": "venda",
-      "price": 2000,  
-      "createdAt": "2025-04-28T09:43:59.749Z"     
+      "price": 2000,
+      "createdAt": "2025-04-28T09:43:59.749Z"
     },
-    
     {
       "id": 2,
       "description": "Humburger",
       "type": "outcome",
       "category": "Food",
-      "price": 30,  
-      "createdAt": "2025-04-28T09:43:40.749Z"     
+      "price": 30,
+      "createdAt": "2025-04-28T09:43:40.749Z"
     },
     {
       "id": 3,
@@ -24,7 +23,38 @@
       "category": "Leisure",
       "price": 29.99,
       "createdAt": "2025-04-28T09:43:40.749Z"
+    },
+    {
+      "description": "App development",
+      "price": 1000,
+      "category": "Tech",
+      "type": "income",
+      "createdAt": "2025-05-06T13:31:09.479Z",
+      "id": 4
+    },
+    {
+      "description": "Kefir",
+      "price": 2,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2025-05-06T13:43:44.023Z",
+      "id": 5
+    },
+    {
+      "description": "Nathy Gift",
+      "price": 20,
+      "category": "Presente",
+      "type": "income",
+      "createdAt": "2025-05-06T19:27:31.999Z",
+      "id": 6
+    },
+    {
+      "description": "Joao Gift",
+      "price": 100,
+      "category": "presente",
+      "type": "outcome",
+      "createdAt": "2025-05-06T19:27:52.073Z",
+      "id": 7
     }
-    
   ]
 }
